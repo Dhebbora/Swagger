@@ -1,4 +1,4 @@
-# Cafeteria API
+# Swagger - Cafeteria API
 
 API REST desenvolvida com Java e Spring Boot para o gerenciamento de produtos de uma cafeteria. O projeto permite realizar operações de cadastro,
 consulta, atualização e exclusão de produtos, seguindo os princípios de comunicação de uma API REST.
