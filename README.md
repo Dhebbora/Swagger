@@ -6,10 +6,10 @@ A documentação dos endpoints é disponibilizada por meio do Swagger UI, facili
 
 ### Tecnologias utilizadas
 
-Java:linguagem de programação. </br>
-Spring Boot: framework para desenvolvimento da aplicação.
-Spring Web: criação dos endpoints REST.
-Swagger / OpenAPI: documentação e exploração interativa da API.
+Java: linguagem de programação. </br>
+Spring Boot: framework para desenvolvimento da aplicação.</br>
+Spring Web: criação dos endpoints REST.</br>
+Swagger / OpenAPI: documentação e exploração interativa da API.</br>
 Maven:gerenciamento de dependências e build do projeto.
 
 ### Funcionalidades
