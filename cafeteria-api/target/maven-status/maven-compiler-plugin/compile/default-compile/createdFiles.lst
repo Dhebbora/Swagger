@@ -1,0 +1,5 @@
+cafeteria_api\controller\ProductController.class
+cafeteria_api\service\ProductService.class
+cafeteria_api\CafeteriaApiApplication.class
+cafeteria_api\model\Product.class
+cafeteria_api\repository\ProductRepository.class
